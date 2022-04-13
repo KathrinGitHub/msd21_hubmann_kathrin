@@ -1,0 +1,7 @@
+[user]
+	name = Kathrin Hubmann
+	email = kathrin.hubmann@edu.fh-joanneum.at
+[init]
+	defaultBranch = main
+[pull]
+	ff = true

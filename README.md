@@ -25,6 +25,7 @@ Honestly I don't care just do what ever works best for you.
 ## Exercises
 * [exercise1](exercise1.md)
 * [exercise2](exercise2.md)
+* [exercise3](exercise3.md)
 
 ##Useful links
 * [My GitHub](https://github.com/KathrinGitHub)

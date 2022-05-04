@@ -16,9 +16,9 @@ commits also include metadata like author, time, date, ...
 ## git status
 shows current state of repository
 
-![explanation from github](git_status.png)
+![explanation from github](resources/images/git_status.png)
 
-![code example](git_status_example.png)
+![code example](resources/images/git_status_example.png)
 
 ## git add
 adds new files or changes to existing ones -> is also needed so a commit can work
@@ -26,7 +26,7 @@ adds new files or changes to existing ones -> is also needed so a commit can wor
 ## git log
 shows the commit logs (history of all the commits) in chronological order
 
-![code example](git_log_example.png)
+![code example](resources/images/git_log_example.png)
 
 ## git diff
 shows the changes between the commits

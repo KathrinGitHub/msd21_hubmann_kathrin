@@ -39,4 +39,11 @@ public class Calculator {
         }
         return num;
     }
+
+    public double faculty(double number) {
+        if(number > 1) {
+            number *= faculty(number - 1);
+        }
+       return 0;
+    }
 }

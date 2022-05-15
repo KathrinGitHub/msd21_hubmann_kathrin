@@ -53,6 +53,21 @@ class CalculatorTest {
 
     @Test
     void divide2() {
-        Assertions.assertEquals(1.6, result = 8 / 5);
+        Assertions.assertEquals(1.6, result = 8.0 / 5.0);
+    }
+
+    @Test
+    void faculty() {
+        Assertions.assertEquals(120, c.faculty(5));
+    }
+
+    @Test
+    void faculty2() {
+        Assertions.assertEquals(0, c.faculty(-5));
+    }
+
+    @Test
+    void faculty3() {
+        Assertions.assertEquals(24, c.faculty(4));
     }
 }

@@ -44,6 +44,12 @@ public class Calculator {
         if(number > 1) {
             number *= faculty(number - 1);
         }
-       return 0;
+        else if (number < 0){
+            return 0;
+        }
+        else {
+            return 1;
+        }
+       return number;
     }
 }

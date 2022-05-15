@@ -9,5 +9,6 @@ public class Main {
         calc.minus(x, y);
         calc.multiply(x, y);
         calc.divide(x, y);
+        calc.faculty(y);
     }
 }

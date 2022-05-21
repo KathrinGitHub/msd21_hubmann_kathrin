@@ -31,3 +31,6 @@ Honestly I don't care just do what ever works best for you.
 ## Useful links
 * [My GitHub](https://github.com/KathrinGitHub)
 * [My University](https://www.fh-joanneum.at/)
+
+## Template
+[log4j.xml.template](src/main/additional/log4j2.xml)

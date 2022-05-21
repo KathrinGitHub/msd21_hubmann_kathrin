@@ -15,7 +15,7 @@ public class Main {
         calc.multiply(x, y);
         logger.info("this is an info-logger");
         logger.error("this is an error-logger");
-        calc.divide(x, y);
+        calc.divide((int)x, (int)y);
         calc.faculty(y);
 
 

@@ -57,6 +57,13 @@ class CalculatorTest {
     }
 
     @Test
+    void divide3() {
+        Assertions.assertThrows(ArithmeticException.class, () -> {
+            c.divide(5,0);
+        });
+    }
+
+    @Test
     void faculty() {
         Assertions.assertEquals(120, c.faculty(5));
     }

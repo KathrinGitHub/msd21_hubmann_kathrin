@@ -27,6 +27,7 @@ Honestly I don't care just do what ever works best for you.
 * [exercise2](exercise2.md)
 * [exercise3](exercise3.md)
 * [exercise4](exercise4.md)
+* [exercise5](exercise5.md)
 
 ## Useful links
 * [My GitHub](https://github.com/KathrinGitHub)
